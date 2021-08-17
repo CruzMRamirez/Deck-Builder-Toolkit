@@ -7,8 +7,8 @@
 - License: GPLv2 or later
 - License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-## MTG Deck Builder Tool Kit
-A WordPress brochure website that will allow Vocation Plus Connection to display information about their organization, community-based services, and events for individuals living with disabilities.
+## Plugin Details
+A plugin that should give your site the ability to add the tools you need to build decks for Magic, the gathering, a game owned by [Wizards of the Coast](https://magic.wizards.com/en).
 
 ## Project Requirements
 - Code Editor (Your Choice)
