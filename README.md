@@ -1,12 +1,11 @@
 ## MTG Deck Builder Tool Kit
-Contributors: Cruz Ramirez
-Donate link: cruz-ramirez.com
-Tags: Entertainment, Card Games, Hobbies
-Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 4.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+- Contributors: Cruz Ramirez
+- Tags: Entertainment, Card Games, Hobbies
+- Requires at least: 3.0.1
+- Tested up to: 3.4
+- Stable tag: 4.3
+- License: GPLv2 or later
+- License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ## MTG Deck Builder Tool Kit
 A WordPress brochure website that will allow Vocation Plus Connection to display information about their organization, community-based services, and events for individuals living with disabilities.
@@ -17,7 +16,7 @@ A WordPress brochure website that will allow Vocation Plus Connection to display
 
 ## Project Setup
 This project will live in the Plugins folder of your wordpress environment
-- Download Local by Flywheel https://localwp.com/
+- Download [Local by Flywheel](https://localwp.com/)
 - follow the installation process
 
 ### Installation Process
@@ -35,6 +34,8 @@ Upon finishing the installation process
 - Ensure that everything within WP Admin is up-to-Date
 
 ## FAQ
-Is there a theme that goes with this plugin?
+**Is there a theme that goes with this plugin?**
 Not currently, There are no plans on making a theme to go along with this plugin.
 
+**How do you enable the ability for certain users to see certain pages?**
+All users functionality is being handled by using a third party plugin. Currently, I'm using [Ultimate Member](https://ultimatemember.com/).
