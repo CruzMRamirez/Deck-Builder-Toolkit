@@ -1,4 +1,4 @@
-=== MTG Deck Builder Tool Kit ===
+## MTG Deck Builder Tool Kit
 Contributors: Cruz Ramirez
 Donate link: cruz-ramirez.com
 Tags: Entertainment, Card Games, Hobbies
@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-# MTG Deck Builder Tool Kit
+## MTG Deck Builder Tool Kit
 A WordPress brochure website that will allow Vocation Plus Connection to display information about their organization, community-based services, and events for individuals living with disabilities.
 
 ## Project Requirements
@@ -35,6 +35,6 @@ Upon finishing the installation process
 - Ensure that everything within WP Admin is up-to-Date
 
 ## FAQ
-- Is there a theme that goes with this plugin?
-# Not currently, There are no plans on making a theme to go along with this plugin.
+Is there a theme that goes with this plugin?
+Not currently, There are no plans on making a theme to go along with this plugin.
 
